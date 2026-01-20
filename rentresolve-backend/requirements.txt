@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+beanie
+motor
+pydantic
+google-generativeai
+python-docx
+pypdf
+python-dotenv
+email-validator
+black
+pytest
+pydantic-ai
+logfire
+reportlab
